@@ -1,0 +1,12 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.lxl</groupId>
+  <artifactId>mini.dubbo</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>mini-dubbo</name>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>mini-dubbo-common</module>
+  	<module>mini-dubbo-provider</module>
+  </modules>
+</project>
