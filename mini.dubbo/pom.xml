@@ -8,5 +8,6 @@
   <modules>
   	<module>mini-dubbo-common</module>
   	<module>mini-dubbo-provider</module>
+  	<module>mini-dubbo-consumer</module>
   </modules>
 </project>
